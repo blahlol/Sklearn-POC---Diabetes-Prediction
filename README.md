@@ -1,4 +1,5 @@
-# Diabetes Prediction using Pima Indians Database
+# Diabetes Prediction using Pima Indians Database - Exploratory Data Analysis, Training models based on various Classification algorithms, Model Evaluation, Model Selection, and Hyperparameter tuning.
+
 
 ## Overview
 
