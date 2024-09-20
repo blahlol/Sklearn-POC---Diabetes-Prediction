@@ -1,5 +1,4 @@
-# Diabetes Prediction using Pima Indians Database - Exploratory Data Analysis, Training models based on various Classification algorithms, Model Evaluation, Model Selection, and Hyperparameter tuning.
-
+# Diabetes Prediction using Pima Indians Database
 
 ## Overview
 
@@ -40,6 +39,10 @@ The dataset used is the [Pima Indians Diabetes Dataset](https://www.kaggle.com/d
    - Random Forest
    - Multi-Layer Perceptron (MLP)
 5. **Model Evaluation**: Evaluate models using classification metrics.
+   - Confusion Matrix
+   - Accuracy
+   - Precision
+   - Recall  
 6. **Hyperparameter Tuning**: Improve model performance using RandomizedSearchCV.
 
 ## Requirements
